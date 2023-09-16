@@ -26,7 +26,7 @@
     "fuse.js": "^6.6.2",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
-    "marked": "^8.0.0",
+    "marked": "^9.0.1",
     "prettier-plugin-astro": "^0.12.0",
     "prettier-plugin-tailwindcss": "^0.5.4",
     "prop-types": "^15.8.1",
@@ -43,7 +43,7 @@
     "@tailwindcss/forms": "^0.5.6",
     "@tailwindcss/typography": "^0.5.9",
     "@types/marked": "^5.0.1",
-    "@types/node": "20.5.9",
+    "@types/node": "^20.6.2",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
     "autoprefixer": "^10.4.15",
@@ -53,8 +53,8 @@
     "prettier-plugin-astro": "^0.12.0",
     "prettier-plugin-tailwindcss": "^0.5.4",
     "sass": "^1.66.1",
-    "tailwindcss": "^3.3.3",
     "tailwind-bootstrap-grid": "^5.0.1",
+    "tailwindcss": "^3.3.3",
     "typescript": "5.2.2"
   }
 }
